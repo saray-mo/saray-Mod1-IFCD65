@@ -1,0 +1,30 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>prueba evaluable1</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    
+    <div class="contenedor">
+        <div class="tarjeta">
+            <div class="datos">
+    <img id="imgCarnet" src="" alt="">
+    <div id="datos2">
+        <div>
+            <label>nombre<input type="text"></label>
+            <label>apellido<input type="text"></label>
+            <label>email de cntacto<input type="text"></label>
+            <label>Nº de socio<input type="text"></label>
+        </div>
+            </div>
+        <p id="hBio"><strong>biografia</strong></p>
+        <!--<h3>biografria</h3>-->
+            <textarea name="" id="bio"cols="100" readonly></textarea>
+        </div>
+    </div>
+</main>
+    </body>
+</html>
